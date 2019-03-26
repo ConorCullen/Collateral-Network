@@ -1,0 +1,8 @@
+# brief QAP intro
+http://www.analytictech.com/ucinet/help/423udi3.htm
+
+# Patterns in social network
+http://www.umasocialmedia.com/socialnetworks/lecture-9-patterns-in-social-networks/
+
+# Multi QAP tutorial linkedin
+https://www.slideshare.net/frbkrm/mrqap-tutorial-for-newbies
